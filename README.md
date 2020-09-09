@@ -7,10 +7,10 @@
 <p align="center">
     <b>Пример сгенерированных изображений:</b>
     <br><br>
-    <img src="samples/img_1" width="480">
-    <img src="samples/img_2" width="480">
-    <img src="samples/img_3" width="480">
-    <img src="samples/img_4" width="480">
+    <img src="samples/img_1.png" width="480">
+    <img src="samples/img_2.png" width="480">
+    <img src="samples/img_3.png" width="480">
+    <img src="samples/img_4.png" width="480">
 </p>
 
 
